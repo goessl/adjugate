@@ -128,7 +128,7 @@ ax.set_yscale('log')
 ax.set_xlim(-2, +2)
 ax.set_ylim(1e-16, 1e-12)
 ax.set_xlabel('det')
-ax.set_xlabel('err')
+ax.set_ylabel('err')
 plt.show()
 ```
 

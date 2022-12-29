@@ -6,7 +6,7 @@ long_description = (this_directory / 'README.md').read_text()
 
 setup(
     name = 'adjugate',
-    version = '0.9.0',
+    version = '0.9.1',
     description = 'A package for calculating submatricies, minors, adjugate- and cofactor matricies.',
     long_description = long_description,
     long_description_content_type = 'text/markdown',
